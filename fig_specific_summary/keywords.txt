@@ -1,0 +1,86 @@
+ALGORITHM_sing = algorithm|Algorithm|ALGORITHM
+ALGORITHM_plu = algorithms|Algorithms|ALGORITHMS
+METHOD_sing = method|Method|METHOD|methodology|Methodology|METHODOLOGY
+METHOD_plu = methods|Methods|METHODS|methodologies|Methodologies|METHODOLOGIES
+APPROACH_sing = approach|Approach|APPROACH
+APPROACH_plu = approaches|Approaches|APPROACHES
+PROCEDURE_sing = procedure|Procedure|PROCEDURE
+PROCEDURE_plu = procedures|Procedures|PROCEDURES
+PROTOCOL_sing = protocol|Protocol|PROTOCOL
+PROTOCOL_plu = protocols|Protocols|PROTOCOLS
+
+%algorithm inference types (likely to have some algorithms embedded in the work)
+MECHANISM_sing = mechanism|Mechanism|MECHANISM
+MECHANISM_plu = mechanisms|Mechanisms|MECHANISMS
+TECHNIQUE_sing = technique|Technique|TECHNIQUE
+TECHNIQUE_plu = techniques|Techniques|TECHNIQUES
+FRAMEWORK_sing = framework|Framework|FRAMEWORK
+FRAMEWORK_plu = frameworks|Frameworks|FRAMEWORKS
+MODEL_sing = model|Model|MODEL
+MODEL_plu = models|Models|MODELS
+SCHEME_sing = scheme|Scheme|SCHEME
+SCHEME_plu = schemes|Schemes|SCHEMES
+SIGNATURE_sing = signature|Signature|SIGNATURE
+SIGNATURE_plu = signatures|Signatures|SIGNATURES
+SYSTEM_sing = system|System|SYSTEM|cryptosystem|Cryptosystem|CRYPTOSYSTEM
+SYSTEM_plu = systems|Systems|SYSTEMS|cryptosystems|Cryptosystems|CRYPTOSYSTEMS
+STRUCTURE_sing = structure|Structure|STRUCTURE
+STRUCTURE_plu = structures|Structures|STRUCTURES
+
+%Other
+WAY_sing = way|Way|WAY
+WAY_plu = ways|Ways|WAYS
+CALCULATION_sing = calculation|Calculation|CALCULATION
+CALCULATION_plu = calculations|Calculations|CALCULATIONS
+MATERIAL_sing = material|Material|MATERIAL 
+MATERIAL_plu = materials|Materials|MATERIALS
+WAVEGUIDE_sing = waveguide|Waveguide|WAVEGUIDE
+WAVEGUIDE_plu = waveguides|Waveguides|WAVEGUIDES
+REPRESENTATION_sing = presentation|Presentation|PRESENTATION
+REPRESENTATION_plu = presentations|Presentations|PRESENTATIONS
+INDEX_sing = index|Index|INDEX
+INDEX_plu = indice|Indice|INDICE
+PROBLEM_sing = problem|Problem|PROBLEM
+PROBLEM_plu = problems|Problems|PROBLEMS
+TRANSLATION_sing = translation|Translation|TRANSLATION
+TRANSLATION_plu = translations|Translations|TRANSLATIONS
+CATEGORIZING_sing = categorizing|Categorizing|CATEGORIZING
+CATEGORIZING_plu = categorizings|Categorizings|CATEGORIZINGS
+ENTITY_sing = entity|Entity|ENTITY
+ENTITY_plu = entities|Entities|ENTITIES
+EQUATION_sing = equation|Equation|EQUATION
+EQUATION_plu = equations|Equations|EQUATIONS
+RELATIONSHIP_sing = relationship|Relationship|RELATIONSHIP
+RELATIONSHIP_plu = relationships|Relationships|RELATIONSHIPS
+REFORMULATION_sing = reformulation|Reformulation|REFORMULATION
+REFORMULATION_plu = reformulations|Reformulations|REFORMULATIONS
+FORMULATION_sing = formulation|formulation|FORMULATION
+FORMULATION_plu = formulations|formulations|FORMULATIONS
+ANALYSIS_sing = analysis|Analysis|ANALYSIS
+ANALYSIS_sing = analyses|Analyses|ANALYSES
+
+%compound (as in 'modification of this approach')
+COMPOUND = modification|MODIFICATION
+
+%unknown
+UNKNOWN_sing = 
+UNKNOWN_plu = 
+
+%Proposing keyword
+PROPOSE_present = propose|PROPOSE|proposes|PROPOSES|present|PRESENT|presents|PRESENTS|introduce|INTRODUCE|introduces|INTRODUCES|suggest|SUGGEST|suggests|SUGGESTS|describe|DESCRIBE|describes|DESCRIBES|develop|develops|DEVELOP|DEVELOPS|devise|DEVISE|devises|DEVISES|construct|CONSTRUCT|constructs|CONSTRUCTS|explain|explains
+PROPOSE_past = proposed|PROPOSED|presented|PRESENTED|DEVISED|constructed|CONSTRUCTED|explained
+
+%Explain Keyword
+EXPLAIN_present = outline|outlines|present|presents|derive|derives|focus|focuses|describe|describes|review|reviews|introduce|introduces|show|shows
+EXPLAIN_past = outlined|presented|derived|focused|described|reviewed|introduced|showed|shown
+
+%Element extraction
+EL_TYPE = TABLE|FIGURE|ALGO|UNKNOWN
+TABLE_key = Table|table|TABLE 
+FIGURE_key = FIGURE|FIG.|Figure|Fig.|figure|fig.
+ALGO_key = Algorithm|algorithm|ALGORITHM|Pseudocode|pseudocode|PSEUDOCODE|Pseudo-code|pseudo-code|PSEUDO-CODE|Pseudo code|pseudo code|PSEUDO CODE|Procedure|PROCEDURE
+UNKNOWN_key = UNKNOWN
+
+%Preposition
+PREPOSITION = in|at|of|for|on|into|between|when
+
