@@ -1,6 +1,6 @@
 # Urdu Sentiment Analysis
 
-(https://paperswithcode.com/sota/sentiment-analysis-on-urdu-online-reviews?p=sentiment-analysis-for-urdu-online-reviews)
+[paper](https://paperswithcode.com/sota/sentiment-analysis-on-urdu-online-reviews?p=sentiment-analysis-for-urdu-online-reviews)
 
 code and data for paper [Sentiment analysis for Urdu online reviews using deep learning models](https://onlinelibrary.wiley.com/doi/pdf/10.1111/exsy.12751)
 
